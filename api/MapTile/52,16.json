@@ -1,5 +1,6 @@
 {
     "expires": null,
+    "success": true,
     "payload": {
         "type": "MapTile",
         "data": {
@@ -10,14 +11,6 @@
                         "latitude": 52.4,
                         "longitude": 16.9,
                         "label": "Test 1"
-                    }
-                },
-                {
-                    "type": "Point",
-                    "data": {
-                        "latitude": 52.3,
-                        "longitude": 17.1,
-                        "label": "Test 2"
                     }
                 },
                 {
