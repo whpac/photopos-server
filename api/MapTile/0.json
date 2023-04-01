@@ -1,0 +1,42 @@
+{
+    "expires": null,
+    "payload": {
+        "type": "MapTile",
+        "data": {
+            "points": [
+                {
+                    "type": "Point",
+                    "data": {
+                        "latitude": 52.4,
+                        "longitude": 16.9,
+                        "label": "Test 1"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "data": {
+                        "latitude": 52.3,
+                        "longitude": 17.1,
+                        "label": "Test 2"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "data": {
+                        "latitude": 52.5,
+                        "longitude": 16.8,
+                        "label": "Test 3"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "data": {
+                        "latitude": 52.4,
+                        "longitude": 16.7,
+                        "label": "Test 4"
+                    }
+                }
+            ]
+        }
+    }
+}
